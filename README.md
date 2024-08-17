@@ -47,7 +47,9 @@ A bar chart ranks the top 10 customers by sales and profit, allowing for quick i
 
 * Provides a detailed breakdown of sales and profit across various subcategories within the 
   main product categories.
+
 **Conclusion**
 This project represents the culmination of my training at ITI, where I applied various data analysis and visualization techniques to create a meaningful and impactful dashboard. The skills demonstrated here include data transformation, cleaning, and visualization using Tableau.
+ link of dashboard on tableau public : https://public.tableau.com/app/profile/fady.atia/viz/finalproject_17238623892380/mainDashboard?publish=yes
 
   
